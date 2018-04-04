@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC415
+D 35V Vce, 0.1A Ic, PNP, Small Signal Transistor, TO-92
+K PNP  Transistor
+F http://www.cdil.com/datasheets/bc413_14_b_c.pdf
+$ENDCMP
+#
+$CMP BC415B
+D 35V Vce, 0.1A Ic, PNP, Small Signal Transistor, TO-92
+K PNP  Transistor
+F http://www.cdil.com/datasheets/bc413_14_b_c.pdf
+$ENDCMP
+#
+$CMP BC415C
+D 35V Vce, 0.1A Ic, PNP, Small Signal Transistor, TO-92
+K PNP  Transistor
+F http://www.cdil.com/datasheets/bc413_14_b_c.pdf
+$ENDCMP
+#
+$CMP BC416
+D 45V Vce, 0.1A Ic, PNP, Small Signal Transistor, TO-92
+K PNP  Transistor
+F http://www.cdil.com/datasheets/bc413_14_b_c.pdf
+$ENDCMP
+#
+$CMP BC416B
+D 45V Vce, 0.1A Ic, PNP, Small Signal Transistor, TO-92
+K PNP  Transistor
+F http://www.cdil.com/datasheets/bc413_14_b_c.pdf
+$ENDCMP
+#
+$CMP BC416C
+D 45V Vce, 0.1A Ic, PNP, Small Signal Transistor, TO-92
+K PNP  Transistor
+F http://www.cdil.com/datasheets/bc413_14_b_c.pdf
+$ENDCMP
+#
+#End Doc Library
